@@ -1,8 +1,3 @@
-# React + Vite
+# React Three iFrame
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="1000" alt="Captura de pantalla 2023-11-13 a la(s) 20 31 07" src="https://github.com/lteyssier/PortfolioLaptopiFrameBS/assets/6034865/9b3da0bf-c8dc-4b68-a9c9-60807f134698">
